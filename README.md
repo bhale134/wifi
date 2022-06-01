@@ -1,0 +1,2 @@
+# wifi
+hack de wifi
